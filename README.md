@@ -18,4 +18,4 @@ Run script named as "Copula.m". The Load level and PV output power level uncerta
 
 Run script named as"ExaLMI.m". Uncertain LMI is generated and the Lypunov rule is validated. 
 
-[Output.pdf](https://github.com/Hahmadi1842/Probabilistic-Method-for-Micro-Grid-Lyapunov-based-Stability-Analysis/files/9902258/Output.pdf)
+[Paper1.pdf](https://github.com/Hahmadi1842/Probabilistic-Method-for-Micro-Grid-Lyapunov-based-Stability-Analysis/files/9902285/Paper1.pdf)
